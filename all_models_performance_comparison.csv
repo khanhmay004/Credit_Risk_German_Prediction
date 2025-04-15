@@ -1,0 +1,5 @@
+Model,Test AUC,Test Gini,Test Recall (Bad=1),Test Accuracy,Train AUC,Train Recall (Bad=1),AUC Diff (Train-Test)
+LogisticRegression,0.7999,0.5999,0.7333,0.7367,0.8042,0.7286,0.0042
+SVC,0.8040,0.6081,0.7000,0.7300,0.8996,0.8143,0.0956
+RandomForest,0.7954,0.5909,0.4444,0.7633,1.0000,0.9857,0.2045
+AdaBoost,0.7890,0.5781,0.3889,0.7433,0.8404,0.4381,0.0514

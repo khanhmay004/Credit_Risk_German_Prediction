@@ -1,0 +1,5 @@
+Metric,Train Set,Test Set,Difference
+Accuracy,0.7543,0.7367,0.0176
+AUC,0.8283,0.8017,0.0266
+Gini,0.6567,0.6035,0.0532
+Recall (Bad=1),0.7762,0.7444,0.0317
